@@ -1,2 +1,3 @@
-# readme-daniellabrito
+# readme-House Price prediction 
+Using Simple Linear Regression for house price prediction . 
 
